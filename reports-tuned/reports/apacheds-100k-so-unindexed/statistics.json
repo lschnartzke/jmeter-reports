@@ -1,0 +1,50 @@
+{
+  "Bind" : {
+    "transaction" : "Bind",
+    "sampleCount" : 4000,
+    "errorCount" : 3925,
+    "errorPct" : 98.125,
+    "meanResTime" : 3.522524815874993E7,
+    "medianResTime" : 3.5897981E7,
+    "minResTime" : 22.0,
+    "maxResTime" : 3.590248E7,
+    "pct1ResTime" : 3.59010353E7,
+    "pct2ResTime" : 3.59016178E7,
+    "pct3ResTime" : 3.590213899E7,
+    "throughput" : 0.11140738357447973,
+    "receivedKBytesPerSec" : 0.03562533960103846,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 4074,
+    "errorCount" : 3990,
+    "errorPct" : 97.93814,
+    "meanResTime" : 3.5152686561610065E7,
+    "medianResTime" : 3.5898059E7,
+    "minResTime" : 22.0,
+    "maxResTime" : 3.590248E7,
+    "pct1ResTime" : 3.5901222E7,
+    "pct2ResTime" : 3.59018345E7,
+    "pct3ResTime" : 3.590218125E7,
+    "throughput" : 0.1134684201706076,
+    "receivedKBytesPerSec" : 0.03657145919030562,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Search" : {
+    "transaction" : "Search",
+    "sampleCount" : 74,
+    "errorCount" : 65,
+    "errorPct" : 87.83784,
+    "meanResTime" : 3.1230438067567565E7,
+    "medianResTime" : 3.59021145E7,
+    "minResTime" : 1257678.0,
+    "maxResTime" : 3.5902305E7,
+    "pct1ResTime" : 3.59022405E7,
+    "pct2ResTime" : 3.5902295E7,
+    "pct3ResTime" : 3.5902305E7,
+    "throughput" : 0.00206114888383078,
+    "receivedKBytesPerSec" : 9.461711349774821E-4,
+    "sentKBytesPerSec" : 0.0
+  }
+}
